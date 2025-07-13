@@ -1,0 +1,5 @@
+repositories:
+  bits_aw_training:
+    type: git
+    url: https://github.com/prakash-kannaiah/bits_aw_training.git
+    version: main
